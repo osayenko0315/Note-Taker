@@ -26,5 +26,12 @@ Note Taker is an application that can be used to write and save notes. This appl
 * THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 * Mock-Up
 
+## Technologies Used
+* JavasScript
+* Node.js
+* Express.js
+* mySQL
+* npm modules
+
 ## Repository
 * https://github.com/osayenko0315/Note-Taker
